@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Build output
+/bin/
+/build/
+/dist/
+*.a
+*.appx
+*.dylib
+*.dll
+*.exe
+*.lib
+*.msi
+*.msix
+*.o
+*.obj
+*.pdb
+*.so
+
+# Local state and editor files
+.env
+.idea/
+.vscode/
+*.swp
